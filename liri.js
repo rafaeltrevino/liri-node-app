@@ -106,5 +106,5 @@ inquirer.prompt([{
                 searchDatabase(response.userDo, searchResponse.searchTerm);
             }
         });
-    }
+    };
 });
