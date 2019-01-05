@@ -1,984 +1,402 @@
 
 
-====== Thu Jan 03 2019 23:53:35 GMT-0500 (Eastern Standard Time) =====
-Database: concert-this
-
-Upcoming concerts for Enrique Iglesias:
-
-1. 05/05/2019 | Roma: Palazzo dello Sport - Roma
-2. 05/07/2019 | Kraków: Tauron Arena
-3. 05/09/2019 | Köln: Lanxess Arena
-4. 05/10/2019 | Zürich: Hallenstadion
-5. 12/07/2019 | Madrid: WiZink Center
-
-====== Thu Jan 03 2019 23:54:22 GMT-0500 (Eastern Standard Time) =====
-Database: concert-this
-
-Upcoming concerts for Enrique Iglesias:
-
-1. 05/05/2019 | Roma: Palazzo dello Sport - Roma
-2. 05/07/2019 | Kraków: Tauron Arena
-3. 05/09/2019 | Köln: Lanxess Arena
-4. 05/10/2019 | Zürich: Hallenstadion
-5. 12/07/2019 | Madrid: WiZink Center
-
-====== Thu Jan 03 2019 23:54:42 GMT-0500 (Eastern Standard Time) =====
-Database: spotify-this-song
-
-
-“The Sign” by Various Artists
-Album: Scared of the Dark (feat. XXXTENTACION) 
-Link: https://open.spotify.com/track/3vWzyGTu6Ovo1GdrcJqH6e
-
-“The Sign” by Harry Styles
-Album: Sign of the Times 
-Link: https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN
-
-“The Sign” by Jeremih
-Album: Impatient 
-Link: https://open.spotify.com/track/3WjyiSbfR74pjWXQ3IaFKJ
-
-“The Sign” by Harry Styles
-Album: Sign of the Times 
-Link: https://open.spotify.com/track/5ELRkzdzz0HvGpMDlfZHkV
-
-“The Sign” by Mac Miller
-Album: Cinderella (feat. Ty Dolla $ign) 
-Link: https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb
-
-“The Sign” by Quality Control
-Album: Movin’ Up 
-Link: https://open.spotify.com/track/7jTL6K5hqWDVUH4j2thZrp
-
-“The Sign” by Ace of Base
-Album: The Sign 
-Link: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
-
-“The Sign” by Lil Durk
-Album: 100 Grand (feat. Ty Dolla $ign & A Boogie wit da Hoodie) 
-Link: https://open.spotify.com/track/55bBVlWgwZ6yw5ccMkDU5j
-
-“The Sign” by EXO
-Album: Sign 
-Link: https://open.spotify.com/track/2MqK2bA1U6MO0EbUpCOG2r
-
-“The Sign” by Ty Dolla $ign
-Album: Droptop in the Rain (feat. Tory Lanez) 
-Link: https://open.spotify.com/track/2ZN1EnypRwsD38EoFRwmu9
-
-“The Sign” by Various Artists
-Album: The Other Side (with MAX & Ty Dolla $ign) 
-Link: https://open.spotify.com/track/2W5WCpIzIQ2kNzBlUMJGZm
-
-“The Sign” by Coldplay
-Album: Warning Sign 
-Link: https://open.spotify.com/track/4bPkBHKLKd9WHizsvM2zV3
-
-“The Sign” by MihTy
-Album: The Light 
-Link: https://open.spotify.com/track/0YIfZYYfVytcD1q0Mx57Ey
-
-“The Sign” by Various Artists
-Album: Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors) 
-Link: https://open.spotify.com/track/7qUJQSNX9QNf46CC6FgH66
-
-“The Sign” by Mariah Carey
-Album: The Distance (feat. Ty Dolla $ign) 
-Link: https://open.spotify.com/track/5TBvzAlyJ3CHlq7wMqpLhW
-
-“The Sign” by Juicy J, Wiz Khalifa & Ty Dolla $ign
-Album: Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles" 
-Link: https://open.spotify.com/track/7zBQRGpYImAdIZc97FNj3V
-
-“The Sign” by The Front Bottoms
-Album: Peace Sign 
-Link: https://open.spotify.com/track/7BTfCCOitwPLJLlgPMpz1g
-
-“The Sign” by MihTy
-Album: The Light 
-Link: https://open.spotify.com/track/3oCJJksC12uFxkt3RQ7rbV
-
-“The Sign” by Ty Dolla $ign
-Album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix 
-Link: https://open.spotify.com/track/7t2bFihaDvhIrd2gn2CWJO
-
-“The Sign” by Ty Dolla $ign
-Album: Love U Better (feat. Lil Wayne & The-Dream) 
-Link: https://open.spotify.com/track/270aLuFCbX32hhBr8MQyPM
-
-====== Thu Jan 03 2019 23:55:00 GMT-0500 (Eastern Standard Time) =====
+====== Sat Jan 05 2019 17:03:15 GMT-0500 (Eastern Standard Time) =====
 Database: movie-this
+Search for: Mr. Nobody
 
-
+ 
 	Mr. Nobody (2009), featuring Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible. The movie was released in Belgium, Germany, Canada, France, USA, UK and is available to audiences in English, Mohawk. The Interview Movie Database gives this movie a 7.9/10 while Rotten Tomatoes rates it at 67%.
 
 
-====== Thu Jan 03 2019 23:55:26 GMT-0500 (Eastern Standard Time) =====
-Database: spotify-this-song
-
-
-“"I Want it That Way"” by Backstreet Boys
-Album: I Want It That Way 
-Link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
-
-“"I Want it That Way"” by Anthem Lights
-Album: I Want It That Way 
-Link: https://open.spotify.com/track/3Ww6kEWxLh4Ub4WPJ9hMtA
-
-“"I Want it That Way"” by Backstreet Boys
-Album: I Want It That Way 
-Link: https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya
-
-“"I Want it That Way"” by Tyler and Mark
-Album: I Want It That Way 
-Link: https://open.spotify.com/track/7k52T0b1v9ktm2gJwlO5yy
-
-“"I Want it That Way"” by Various Artists
-Album: I Want It That Way 
-Link: https://open.spotify.com/track/0F5f29urvisi4TiwJOQZWN
-
-“"I Want it That Way"” by Manuel Costa
-Album: I Want It That Way 
-Link: https://open.spotify.com/track/4Sp4RxkWukxqJykl0ySNQi
-
-“"I Want it That Way"” by Boyce Avenue
-Album: I Want It That Way 
-Link: https://open.spotify.com/track/16COzZ7jCVn3O8b8ZgviOx
-
-“"I Want it That Way"” by Glee Cast
-Album: Bye Bye Bye / I Want It That Way (Glee Cast Version) 
-Link: https://open.spotify.com/track/3t7m7AzV2ntuI9fIT6KREP
-
-“"I Want it That Way"” by Steel Panther
-Album: I Want It That Way 
-Link: https://open.spotify.com/track/0448cNUvZGCAlUpIPO5kdY
-
-“"I Want it That Way"” by Scott Bradlee's Postmodern Jukebox
-Album: I Want It That Way 
-Link: https://open.spotify.com/track/1Le3uYU5NU9cXXtYeSWnEM
-
-“"I Want it That Way"” by Scary Pockets
-Album: I Want It That Way 
-Link: https://open.spotify.com/track/4IWQXV01Lp0wsXCXo09EBr
-
-“"I Want it That Way"” by "Weird Al" Yankovic
-Album: Ebay (Parody of "I Want It That Way" by the Backstreet Boys) 
-Link: https://open.spotify.com/track/1vaico2C72imYowF4Kv04V
-
-“"I Want it That Way"” by #90s Update
-Album: I Want It That Way 
-Link: https://open.spotify.com/track/0rZTeneJh7IM5SdoabMcYA
-
-“"I Want it That Way"” by Various Artists
-Album: I Want It That Way 
-Link: https://open.spotify.com/track/75W4IDdKhHvRQZpaDx9YPg
-
-“"I Want it That Way"” by MaxLife
-Album: I Want It That Way 
-Link: https://open.spotify.com/track/5MZFb9O6bnPjoDMjL0K2iM
-
-“"I Want it That Way"” by Landon Austin
-Album: I Want It That Way 
-Link: https://open.spotify.com/track/1zUJq8Ap2u9MyDo0HJxVU5
-
-“"I Want it That Way"” by Scott Bradlee's Postmodern Jukebox
-Album: I Want It That Way 
-Link: https://open.spotify.com/track/6FNTpwQU3VNZvezUPYMjPY
-
-“"I Want it That Way"” by NKOTBSB
-Album: I Want It That Way 
-Link: https://open.spotify.com/track/2KMwtsWwL5QDtSpm814tju
-
-“"I Want it That Way"” by "Weird Al" Yankovic
-Album: Ebay (Parody of "I Want It That Way" by the Backstreet Boys) 
-Link: https://open.spotify.com/track/4vHb50VkxDzHYwLiHfWczK
-
-“"I Want it That Way"” by Various Artists
-Album: I Want It That Way 
-Link: https://open.spotify.com/track/1zCiqxhampG4dcC7HEqPu5
-
-====== Thu Jan 03 2019 23:55:57 GMT-0500 (Eastern Standard Time) =====
+====== Sat Jan 05 2019 17:03:43 GMT-0500 (Eastern Standard Time) =====
 Database: concert-this
+Search for: Cher
 
-Upcoming concerts for Cher:
+ 1. 01/17/2019 | Estero: Hertz Arena
+ 3. 01/21/2019 | Orlando: Amway Center
+ 5. 01/25/2019 | Duluth: Infinite Energy Arena
+ 6. 01/27/2019 | Raleigh: PNC Arena
+ 8. 01/31/2019 | Nashville: Bridgestone Arena
+ 9. 02/02/2019 | Biloxi: Mississippi Coast Coliseum
+ 10. 02/04/2019 | Louisville: KFC Yum! Center
+ 11. 02/06/2019 | Cleveland: Quicken Loans Arena
+ 12. 02/08/2019 | Chicago: United Center
+ 13. 02/10/2019 | Columbus: Nationwide Arena
+ 14. 02/12/2019 | Detroit: Little Caesars Arena
+ 15. 02/14/2019 | Indianapolis: Bankers Life Fieldhouse
+ 16. 03/13/2019 | Las Vegas: Monte Carlo Hotel And Casino
+ 17. 03/15/2019 | Las Vegas: Monte Carlo Hotel And Casino
+ 18. 03/16/2019 | Las Vegas: Monte Carlo Hotel And Casino
+ 19. 03/20/2019 | Las Vegas: Monte Carlo Hotel And Casino
+ 20. 03/22/2019 | Las Vegas: Monte Carlo Hotel And Casino
+ 21. 03/23/2019 | Las Vegas: Monte Carlo Hotel And Casino
+ 22. 03/27/2019 | Las Vegas: Monte Carlo Hotel And Casino
+ 23. 03/29/2019 | Las Vegas: Monte Carlo Hotel And Casino
+ 24. 03/30/2019 | Las Vegas: Monte Carlo Hotel And Casino
+ 25. 04/18/2019 | Pittsburgh: PPG Paints Arena
+ 26. 04/20/2019 | Philadelphia: Wells Fargo Center
+ 27. 04/22/2019 | Toronto: Scotiabank Arena
+ 28. 04/24/2019 | Kanata: Canadian Tire Centre
+ 29. 04/26/2019 | Buffalo: KeyBank Center
+ 30. 04/28/2019 | Boston: TD Garden
+ 31. 04/30/2019 | Springfield: MassMutual Center
+ 32. 05/02/2019 | Brooklyn: Barclays Center
+ 33. 05/03/2019 | Newark: Prudential Center
+ 34. 05/08/2019 | Grand Rapids: Van Andel Arena
+ 35. 05/10/2019 | Saint Louis: Enterprise Center
+ 36. 05/12/2019 | Milwaukee: Fiserv Forum
+ 37. 05/14/2019 | Omaha: CHI Health Center Omaha
+ 38. 05/16/2019 | Sioux Falls: Denny Sanford Premier Center
+ 39. 05/18/2019 | St Paul: Xcel Energy Center
+ 40. 05/21/2019 | Winnipeg: Bell MTS Place
+ 41. 05/23/2019 | Saskatoon: Sasktel Centre
+ 42. 05/25/2019 | Edmonton: Rogers Place
+ 43. 05/28/2019 | Calgary: Scotiabank Saddledome
+ 44. 05/30/2019 | Vancouver: Rogers Arena
+ 45. 09/28/2019 | Merksem: SPORTPALEIS
+ 46. 09/30/2019 | Amsterdam: Ziggo Dome
+ 47. 10/07/2019 | Vienna: Wiener Stadthalle - Halle D
+ 48. 10/09/2019 | Zürich: Hallenstadion
+ 49. 10/13/2019 | Hamburg: Barclaycard Arena Hamburg
+ 50. 10/15/2019 | København S: Royal Arena
+ 51. 10/17/2019 | Stockholm: Friends Arena
+ 52. 10/20/2019 | London: The O2
+ 53. 10/21/2019 | London: The O2 Arena
+ 54. 10/24/2019 | Manchester: Manchester Arena
+ 55. 10/26/2019 | Birmingham: Arena Birmingham
+ 56. 10/28/2019 | Glasgow: SSE Hydro
+ 57. 10/30/2019 | Leeds: First Direct Arena
+ 58. 11/01/2019 | Dublin: 3Arena
+ 2. 01/19/2019 | Sunrise: BB&T Center
+ 4. 01/23/2019 | Jacksonville: Jacksonville Veterans Memorial Arena
+ 7. 01/29/2019 | Charlotte: Spectrum Center
 
-1. 01/17/2019 | Estero: Hertz Arena
-2. 01/19/2019 | Sunrise: BB&T Center
-3. 01/21/2019 | Orlando: Amway Center
-7. 01/29/2019 | Charlotte: Spectrum Center
-8. 01/31/2019 | Nashville: Bridgestone Arena
-9. 02/02/2019 | Biloxi: Mississippi Coast Coliseum
-10. 02/04/2019 | Louisville: KFC Yum! Center
-11. 02/06/2019 | Cleveland: Quicken Loans Arena
-12. 02/08/2019 | Chicago: United Center
-13. 02/10/2019 | Columbus: Nationwide Arena
-14. 02/12/2019 | Detroit: Little Caesars Arena
-15. 02/14/2019 | Indianapolis: Bankers Life Fieldhouse
-16. 03/13/2019 | Las Vegas: Monte Carlo Hotel And Casino
-17. 03/15/2019 | Las Vegas: Monte Carlo Hotel And Casino
-18. 03/16/2019 | Las Vegas: Monte Carlo Hotel And Casino
-19. 03/20/2019 | Las Vegas: Monte Carlo Hotel And Casino
-20. 03/22/2019 | Las Vegas: Monte Carlo Hotel And Casino
-21. 03/23/2019 | Las Vegas: Monte Carlo Hotel And Casino
-22. 03/27/2019 | Las Vegas: Monte Carlo Hotel And Casino
-23. 03/29/2019 | Las Vegas: Monte Carlo Hotel And Casino
-24. 03/30/2019 | Las Vegas: Monte Carlo Hotel And Casino
-25. 04/18/2019 | Pittsburgh: PPG Paints Arena
-26. 04/20/2019 | Philadelphia: Wells Fargo Center
-27. 04/22/2019 | Toronto: Scotiabank Arena
-28. 04/24/2019 | Kanata: Canadian Tire Centre
-29. 04/26/2019 | Buffalo: KeyBank Center
-30. 04/28/2019 | Boston: TD Garden
-31. 04/30/2019 | Springfield: MassMutual Center
-32. 05/02/2019 | Brooklyn: Barclays Center
-33. 05/03/2019 | Newark: Prudential Center
-34. 05/08/2019 | Grand Rapids: Van Andel Arena
-35. 05/10/2019 | Saint Louis: Enterprise Center
-36. 05/12/2019 | Milwaukee: Fiserv Forum
-37. 05/14/2019 | Omaha: CHI Health Center Omaha
-38. 05/16/2019 | Sioux Falls: Denny Sanford Premier Center
-39. 05/18/2019 | St Paul: Xcel Energy Center
-40. 05/21/2019 | Winnipeg: Bell MTS Place
-41. 05/23/2019 | Saskatoon: Sasktel Centre
-42. 05/25/2019 | Edmonton: Rogers Place
-43. 05/28/2019 | Calgary: Scotiabank Saddledome
-44. 05/30/2019 | Vancouver: Rogers Arena
-45. 09/28/2019 | Merksem: SPORTPALEIS
-46. 09/30/2019 | Amsterdam: Ziggo Dome
-47. 10/07/2019 | Vienna: Wiener Stadthalle - Halle D
-48. 10/09/2019 | Zürich: Hallenstadion
-49. 10/13/2019 | Hamburg: Barclaycard Arena Hamburg
-50. 10/15/2019 | København S: Royal Arena
-51. 10/17/2019 | Stockholm: Friends Arena
-52. 10/20/2019 | London: The O2
-53. 10/21/2019 | London: The O2 Arena
-54. 10/24/2019 | Manchester: Manchester Arena
-55. 10/26/2019 | Birmingham: Arena Birmingham
-56. 10/28/2019 | Glasgow: SSE Hydro
-57. 10/30/2019 | Leeds: First Direct Arena
-58. 11/01/2019 | Dublin: 3Arena
-5. 01/25/2019 | Duluth: Infinite Energy Arena
-6. 01/27/2019 | Raleigh: PNC Arena
-4. 01/23/2019 | Jacksonville: Jacksonville Veterans Memorial Arena
-
-====== Thu Jan 03 2019 23:56:21 GMT-0500 (Eastern Standard Time) =====
-Database: spotify-this-song
-
-
-“All I want for christmas” by Mariah Carey
-Album: All I Want for Christmas Is You 
-Link: https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn
-
-“All I want for christmas” by Various Artists
-Album: All I Want For Christmas (Is My Two Front Teeth) 
-Link: https://open.spotify.com/track/4xXMJbzVQSCyprr4PG5sBj
-
-“All I want for christmas” by Michael Bublé
-Album: All I Want For Christmas Is You 
-Link: https://open.spotify.com/track/1FRqLI971CD1QedTiJeL3c
-
-“All I want for christmas” by Justin Bieber
-Album: All I Want For Christmas Is You (SuperFestive!) Duet with Mariah Carey 
-Link: https://open.spotify.com/track/1IUtgwxLYzDVd41EgbKUjX
-
-“All I want for christmas” by Clementine Duo
-Album: All I Want For Christmas Is You 
-Link: https://open.spotify.com/track/0S78OUsLm86UgdWKMng3Py
-
-“All I want for christmas” by Milos Foreman
-Album: All I Want For Christmas Is You 
-Link: https://open.spotify.com/track/0lCNThO3PpgXhXzOjnMyDA
-
-“All I want for christmas” by Michael Bublé
-Album: All I Want For Christmas Is You 
-Link: https://open.spotify.com/track/0xPaZrF25ltzvz1a2Pm5DQ
-
-“All I want for christmas” by Kenny Chesney
-Album: All I Want for Christmas Is a Real Good Tan 
-Link: https://open.spotify.com/track/0la64DF1pXfSU0Ff6EH8Cr
-
-“All I want for christmas” by Vince Vance & The Valiants
-Album: All I Want for Christmas Is You 
-Link: https://open.spotify.com/track/7mrSbcJB3205ftbbSMTyYK
-
-“All I want for christmas” by Mariah Carey
-Album: All I Want For Christmas Is You 
-Link: https://open.spotify.com/track/1gNYgcUv09qq8sXcCiRmFj
-
-“All I want for christmas” by LeAnn Rimes
-Album: All I Want For Christmas Is You 
-Link: https://open.spotify.com/track/1ADBrQVLpNDALKtoEFIeSJ
-
-“All I want for christmas” by *NSYNC
-Album: All I Want Is You (This Christmas) 
-Link: https://open.spotify.com/track/42ahZK39o2uryeHVJbjqc0
-
-“All I want for christmas” by Trap City
-Album: All I Want for Christmas Is You 
-Link: https://open.spotify.com/track/6I213LG6s4BN5p9EM9irff
-
-“All I want for christmas” by Various Artists
-Album: All I Want for Christmas Is You (2005) 
-Link: https://open.spotify.com/track/48wRnWDekEx5bCOA9oeVF4
-
-“All I want for christmas” by PJ Morton
-Album: All I Want For Christmas Is You (feat. Stokley) 
-Link: https://open.spotify.com/track/3xpTPCwZ2G90qS3J5v2Xc4
-
-“All I want for christmas” by She & Him
-Album: All I Want for Christmas Is You 
-Link: https://open.spotify.com/track/1j75fzIDImv5G7NvSW9FNK
-
-“All I want for christmas” by Lindsey Stirling
-Album: All I Want For Christmas 
-Link: https://open.spotify.com/track/2XNlkgbcpJX8gzD0iGI2ST
-
-“All I want for christmas” by Laurence Nerbonne
-Album: All I Want For Christmas Is You 
-Link: https://open.spotify.com/track/6r7dQe9qCH3ag5orO2WnJw
-
-“All I want for christmas” by Fifth Harmony
-Album: All I Want for Christmas Is You 
-Link: https://open.spotify.com/track/71wZ1KJdXSa5hC51kvGBL2
-
-“All I want for christmas” by Lil Jon
-Album: All I Really Want For Christmas (feat. Kool-Aid Man) 
-Link: https://open.spotify.com/track/5Tz3kCWr1LL2S7P02W55jw
-
-====== Thu Jan 03 2019 23:56:59 GMT-0500 (Eastern Standard Time) =====
+====== Sat Jan 05 2019 17:15:55 GMT-0500 (Eastern Standard Time) =====
 Database: movie-this
+Search for: Selena
+
+ 
+	Selena (1997), featuring Jennifer Lopez, Jackie Guerra, Constance Marie, Alex Meneses: The true story of Selena Quintanilla-Perez, a Texas-born Tejano singer who rose from cult status to performing at the Astrodome, as well as having chart topping albums on the Latin music charts. The movie was released in USA and is available to audiences in English, Spanish. The Interview Movie Database gives this movie a 6.7/10 while Rotten Tomatoes rates it at 67%.
 
 
-	Back to the Future (1985), featuring Michael J. Fox, Christopher Lloyd, Lea Thompson, Crispin Glover: Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown. The movie was released in USA and is available to audiences in English. The Interview Movie Database gives this movie a 8.5/10 while Rotten Tomatoes rates it at 96%.
-
-
-====== Thu Jan 03 2019 23:57:30 GMT-0500 (Eastern Standard Time) =====
-Database: movie-this
-
-
-	Roma (2018), featuring Yalitza Aparicio, Marina de Tavira, Diego Cortina Autrey, Carlos Peralta: A story that chronicles a year in the life of a middle-class family's maid in Mexico City in the early 1970s. The movie was released in Mexico, USA and is available to audiences in Spanish, English, Norwegian, Japanese. The Interview Movie Database gives this movie a 8.2/10 while Rotten Tomatoes rates it at 96/100.
-
-
-====== Thu Jan 03 2019 23:59:48 GMT-0500 (Eastern Standard Time) =====
+====== Sat Jan 05 2019 17:18:40 GMT-0500 (Eastern Standard Time) =====
 Database: concert-this
+Search for: Enrique Iglesias
 
-Upcoming concerts for Enrique Iglesias:
+ 1. 05/05/2019 | Roma: Palazzo dello Sport - Roma
+ 4. 05/10/2019 | Zürich: Hallenstadion
+ 3. 05/09/2019 | Köln: Lanxess Arena
+ 2. 05/07/2019 | Kraków: Tauron Arena
+ 5. 12/07/2019 | Madrid: WiZink Center
 
-1. 05/05/2019 | Roma: Palazzo dello Sport - Roma
-5. 12/07/2019 | Madrid: WiZink Center
-3. 05/09/2019 | Köln: Lanxess Arena
-4. 05/10/2019 | Zürich: Hallenstadion
-2. 05/07/2019 | Kraków: Tauron Arena
-
-====== Thu Jan 03 2019 23:59:55 GMT-0500 (Eastern Standard Time) =====
-Database: spotify-this-song
-
-
-“The Sign” by Various Artists
-Album: Scared of the Dark (feat. XXXTENTACION) 
-Link: https://open.spotify.com/track/3vWzyGTu6Ovo1GdrcJqH6e
-
-“The Sign” by Harry Styles
-Album: Sign of the Times 
-Link: https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN
-
-“The Sign” by Jeremih
-Album: Impatient 
-Link: https://open.spotify.com/track/3WjyiSbfR74pjWXQ3IaFKJ
-
-“The Sign” by Harry Styles
-Album: Sign of the Times 
-Link: https://open.spotify.com/track/5ELRkzdzz0HvGpMDlfZHkV
-
-“The Sign” by Mac Miller
-Album: Cinderella (feat. Ty Dolla $ign) 
-Link: https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb
-
-“The Sign” by Quality Control
-Album: Movin’ Up 
-Link: https://open.spotify.com/track/7jTL6K5hqWDVUH4j2thZrp
-
-“The Sign” by Ace of Base
-Album: The Sign 
-Link: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
-
-“The Sign” by Lil Durk
-Album: 100 Grand (feat. Ty Dolla $ign & A Boogie wit da Hoodie) 
-Link: https://open.spotify.com/track/55bBVlWgwZ6yw5ccMkDU5j
-
-“The Sign” by EXO
-Album: Sign 
-Link: https://open.spotify.com/track/2MqK2bA1U6MO0EbUpCOG2r
-
-“The Sign” by Ty Dolla $ign
-Album: Droptop in the Rain (feat. Tory Lanez) 
-Link: https://open.spotify.com/track/2ZN1EnypRwsD38EoFRwmu9
-
-“The Sign” by Various Artists
-Album: The Other Side (with MAX & Ty Dolla $ign) 
-Link: https://open.spotify.com/track/2W5WCpIzIQ2kNzBlUMJGZm
-
-“The Sign” by Coldplay
-Album: Warning Sign 
-Link: https://open.spotify.com/track/4bPkBHKLKd9WHizsvM2zV3
-
-“The Sign” by MihTy
-Album: The Light 
-Link: https://open.spotify.com/track/0YIfZYYfVytcD1q0Mx57Ey
-
-“The Sign” by Various Artists
-Album: Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors) 
-Link: https://open.spotify.com/track/7qUJQSNX9QNf46CC6FgH66
-
-“The Sign” by MihTy
-Album: The Light 
-Link: https://open.spotify.com/track/3oCJJksC12uFxkt3RQ7rbV
-
-“The Sign” by Mariah Carey
-Album: The Distance (feat. Ty Dolla $ign) 
-Link: https://open.spotify.com/track/5TBvzAlyJ3CHlq7wMqpLhW
-
-“The Sign” by Juicy J, Wiz Khalifa & Ty Dolla $ign
-Album: Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles" 
-Link: https://open.spotify.com/track/7zBQRGpYImAdIZc97FNj3V
-
-“The Sign” by The Front Bottoms
-Album: Peace Sign 
-Link: https://open.spotify.com/track/7BTfCCOitwPLJLlgPMpz1g
-
-“The Sign” by Ty Dolla $ign
-Album: Love U Better (feat. Lil Wayne & The-Dream) 
-Link: https://open.spotify.com/track/270aLuFCbX32hhBr8MQyPM
-
-“The Sign” by Ty Dolla $ign
-Album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix 
-Link: https://open.spotify.com/track/7t2bFihaDvhIrd2gn2CWJO
-
-====== Fri Jan 04 2019 00:00:00 GMT-0500 (Eastern Standard Time) =====
+====== Sat Jan 05 2019 17:19:45 GMT-0500 (Eastern Standard Time) =====
 Database: movie-this
+Search for: Shrek
 
-
-	Mr. Nobody (2009), featuring Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible. The movie was released in Belgium, Germany, Canada, France, USA, UK and is available to audiences in English, Mohawk. The Interview Movie Database gives this movie a 7.9/10 while Rotten Tomatoes rates it at 67%.
-
-
-====== Fri Jan 04 2019 00:00:06 GMT-0500 (Eastern Standard Time) =====
-Database: movie-this
-
-
-	Roma (2018), featuring Yalitza Aparicio, Marina de Tavira, Diego Cortina Autrey, Carlos Peralta: A story that chronicles a year in the life of a middle-class family's maid in Mexico City in the early 1970s. The movie was released in Mexico, USA and is available to audiences in Spanish, English, Norwegian, Japanese. The Interview Movie Database gives this movie a 8.2/10 while Rotten Tomatoes rates it at 96/100.
-
-
-====== Fri Jan 04 2019 00:00:15 GMT-0500 (Eastern Standard Time) =====
-Database: concert-this
-
-Upcoming concerts for Cher:
-
-1. 01/17/2019 | Estero: Hertz Arena
-2. 01/19/2019 | Sunrise: BB&T Center
-3. 01/21/2019 | Orlando: Amway Center
-4. 01/23/2019 | Jacksonville: Jacksonville Veterans Memorial Arena
-5. 01/25/2019 | Duluth: Infinite Energy Arena
-6. 01/27/2019 | Raleigh: PNC Arena
-7. 01/29/2019 | Charlotte: Spectrum Center
-8. 01/31/2019 | Nashville: Bridgestone Arena
-9. 02/02/2019 | Biloxi: Mississippi Coast Coliseum
-10. 02/04/2019 | Louisville: KFC Yum! Center
-11. 02/06/2019 | Cleveland: Quicken Loans Arena
-12. 02/08/2019 | Chicago: United Center
-13. 02/10/2019 | Columbus: Nationwide Arena
-14. 02/12/2019 | Detroit: Little Caesars Arena
-15. 02/14/2019 | Indianapolis: Bankers Life Fieldhouse
-16. 03/13/2019 | Las Vegas: Monte Carlo Hotel And Casino
-17. 03/15/2019 | Las Vegas: Monte Carlo Hotel And Casino
-18. 03/16/2019 | Las Vegas: Monte Carlo Hotel And Casino
-19. 03/20/2019 | Las Vegas: Monte Carlo Hotel And Casino
-20. 03/22/2019 | Las Vegas: Monte Carlo Hotel And Casino
-21. 03/23/2019 | Las Vegas: Monte Carlo Hotel And Casino
-22. 03/27/2019 | Las Vegas: Monte Carlo Hotel And Casino
-23. 03/29/2019 | Las Vegas: Monte Carlo Hotel And Casino
-24. 03/30/2019 | Las Vegas: Monte Carlo Hotel And Casino
-25. 04/18/2019 | Pittsburgh: PPG Paints Arena
-26. 04/20/2019 | Philadelphia: Wells Fargo Center
-27. 04/22/2019 | Toronto: Scotiabank Arena
-29. 04/26/2019 | Buffalo: KeyBank Center
-31. 04/30/2019 | Springfield: MassMutual Center
-33. 05/03/2019 | Newark: Prudential Center
-34. 05/08/2019 | Grand Rapids: Van Andel Arena
-35. 05/10/2019 | Saint Louis: Enterprise Center
-36. 05/12/2019 | Milwaukee: Fiserv Forum
-37. 05/14/2019 | Omaha: CHI Health Center Omaha
-38. 05/16/2019 | Sioux Falls: Denny Sanford Premier Center
-39. 05/18/2019 | St Paul: Xcel Energy Center
-40. 05/21/2019 | Winnipeg: Bell MTS Place
-41. 05/23/2019 | Saskatoon: Sasktel Centre
-42. 05/25/2019 | Edmonton: Rogers Place
-43. 05/28/2019 | Calgary: Scotiabank Saddledome
-28. 04/24/2019 | Kanata: Canadian Tire Centre
-44. 05/30/2019 | Vancouver: Rogers Arena
-45. 09/28/2019 | Merksem: SPORTPALEIS
-46. 09/30/2019 | Amsterdam: Ziggo Dome
-47. 10/07/2019 | Vienna: Wiener Stadthalle - Halle D
-48. 10/09/2019 | Zürich: Hallenstadion
-49. 10/13/2019 | Hamburg: Barclaycard Arena Hamburg
-50. 10/15/2019 | København S: Royal Arena
-51. 10/17/2019 | Stockholm: Friends Arena
-52. 10/20/2019 | London: The O2
-53. 10/21/2019 | London: The O2 Arena
-54. 10/24/2019 | Manchester: Manchester Arena
-55. 10/26/2019 | Birmingham: Arena Birmingham
-56. 10/28/2019 | Glasgow: SSE Hydro
-57. 10/30/2019 | Leeds: First Direct Arena
-58. 11/01/2019 | Dublin: 3Arena
-30. 04/28/2019 | Boston: TD Garden
-32. 05/02/2019 | Brooklyn: Barclays Center
-
-====== Fri Jan 04 2019 00:00:22 GMT-0500 (Eastern Standard Time) =====
-Database: spotify-this-song
-
-
-“All I want for Christmas” by Mariah Carey
-Album: All I Want for Christmas Is You 
-Link: https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn
-
-“All I want for Christmas” by Various Artists
-Album: All I Want For Christmas (Is My Two Front Teeth) 
-Link: https://open.spotify.com/track/4xXMJbzVQSCyprr4PG5sBj
-
-“All I want for Christmas” by Michael Bublé
-Album: All I Want For Christmas Is You 
-Link: https://open.spotify.com/track/1FRqLI971CD1QedTiJeL3c
-
-“All I want for Christmas” by Justin Bieber
-Album: All I Want For Christmas Is You (SuperFestive!) Duet with Mariah Carey 
-Link: https://open.spotify.com/track/1IUtgwxLYzDVd41EgbKUjX
-
-“All I want for Christmas” by Michael Bublé
-Album: All I Want For Christmas Is You 
-Link: https://open.spotify.com/track/0xPaZrF25ltzvz1a2Pm5DQ
-
-“All I want for Christmas” by Clementine Duo
-Album: All I Want For Christmas Is You 
-Link: https://open.spotify.com/track/0S78OUsLm86UgdWKMng3Py
-
-“All I want for Christmas” by Milos Foreman
-Album: All I Want For Christmas Is You 
-Link: https://open.spotify.com/track/0lCNThO3PpgXhXzOjnMyDA
-
-“All I want for Christmas” by Kenny Chesney
-Album: All I Want for Christmas Is a Real Good Tan 
-Link: https://open.spotify.com/track/0la64DF1pXfSU0Ff6EH8Cr
-
-“All I want for Christmas” by Vince Vance & The Valiants
-Album: All I Want for Christmas Is You 
-Link: https://open.spotify.com/track/7mrSbcJB3205ftbbSMTyYK
-
-“All I want for Christmas” by Trap City
-Album: All I Want for Christmas Is You 
-Link: https://open.spotify.com/track/6I213LG6s4BN5p9EM9irff
-
-“All I want for Christmas” by Various Artists
-Album: All I Want for Christmas Is You (2005) 
-Link: https://open.spotify.com/track/48wRnWDekEx5bCOA9oeVF4
-
-“All I want for Christmas” by PJ Morton
-Album: All I Want For Christmas Is You (feat. Stokley) 
-Link: https://open.spotify.com/track/3xpTPCwZ2G90qS3J5v2Xc4
-
-“All I want for Christmas” by She & Him
-Album: All I Want for Christmas Is You 
-Link: https://open.spotify.com/track/1j75fzIDImv5G7NvSW9FNK
-
-“All I want for Christmas” by Laurence Nerbonne
-Album: All I Want For Christmas Is You 
-Link: https://open.spotify.com/track/6r7dQe9qCH3ag5orO2WnJw
-
-“All I want for Christmas” by Lindsey Stirling
-Album: All I Want For Christmas 
-Link: https://open.spotify.com/track/2XNlkgbcpJX8gzD0iGI2ST
-
-“All I want for Christmas” by Fifth Harmony
-Album: All I Want for Christmas Is You 
-Link: https://open.spotify.com/track/71wZ1KJdXSa5hC51kvGBL2
-
-“All I want for Christmas” by Lil Jon
-Album: All I Really Want For Christmas (feat. Kool-Aid Man) 
-Link: https://open.spotify.com/track/5Tz3kCWr1LL2S7P02W55jw
-
-“All I want for Christmas” by *NSYNC
-Album: All I Want Is You (This Christmas) 
-Link: https://open.spotify.com/track/42ahZK39o2uryeHVJbjqc0
-
-“All I want for Christmas” by Mariah Carey
-Album: All I Want For Christmas Is You 
-Link: https://open.spotify.com/track/1gNYgcUv09qq8sXcCiRmFj
-
-“All I want for Christmas” by LeAnn Rimes
-Album: All I Want For Christmas Is You 
-Link: https://open.spotify.com/track/1ADBrQVLpNDALKtoEFIeSJ
-
-====== Fri Jan 04 2019 00:00:40 GMT-0500 (Eastern Standard Time) =====
-Database: movie-this
-
-
-	Bird Box (2018), featuring Sandra Bullock, Trevante Rhodes, John Malkovich, Sarah Paulson: A woman and a pair of children are blindfolded and make their way through a dystopian setting. The movie was released in USA and is available to audiences in English. The Interview Movie Database gives this movie a 6.4/10 while Rotten Tomatoes rates it at 65%.
-
-
-====== Fri Jan 04 2019 00:01:30 GMT-0500 (Eastern Standard Time) =====
-Database: movie-this
-
-
+ 
 	Shrek (2001), featuring Mike Myers, Eddie Murphy, Cameron Diaz, John Lithgow: A mean lord exiles fairytale creatures to the swamp of a grumpy ogre, who must go on a quest and rescue a princess for the lord in order to get his land back. The movie was released in USA and is available to audiences in English. The Interview Movie Database gives this movie a 7.9/10 while Rotten Tomatoes rates it at 88%.
 
 
-====== Fri Jan 04 2019 00:06:25 GMT-0500 (Eastern Standard Time) =====
+====== Sat Jan 05 2019 17:21:51 GMT-0500 (Eastern Standard Time) =====
+Database: movie-this
+Search for: "Roma"
+
+ 
+	Roma (2018), featuring Yalitza Aparicio, Marina de Tavira, Diego Cortina Autrey, Carlos Peralta: A story that chronicles a year in the life of a middle-class family's maid in Mexico City in the early 1970s. The movie was released in Mexico, USA and is available to audiences in Spanish, English, Norwegian, Japanese. The Interview Movie Database gives this movie a 8.2/10 while Rotten Tomatoes rates it at 96/100.
+
+
+====== Sat Jan 05 2019 17:31:26 GMT-0500 (Eastern Standard Time) =====
 Database: concert-this
+Search for: Enrique Iglesias
 
-Upcoming concerts for Enrique Iglesias:
+ 1. 05/05/2019 | Roma: Palazzo dello Sport - Roma
+ 4. 05/10/2019 | Zürich: Hallenstadion
+ 3. 05/09/2019 | Köln: Lanxess Arena
+ 2. 05/07/2019 | Kraków: Tauron Arena
+ 5. 12/07/2019 | Madrid: WiZink Center
 
-1. 05/05/2019 | Roma: Palazzo dello Sport - Roma
-5. 12/07/2019 | Madrid: WiZink Center
-3. 05/09/2019 | Köln: Lanxess Arena
-4. 05/10/2019 | Zürich: Hallenstadion
-2. 05/07/2019 | Kraków: Tauron Arena
-
-====== Fri Jan 04 2019 00:06:31 GMT-0500 (Eastern Standard Time) =====
+====== Sat Jan 05 2019 17:31:30 GMT-0500 (Eastern Standard Time) =====
 Database: spotify-this-song
+Search for: The Sign
 
-
-“The Sign” by Various Artists
+ 
+”The Sign” by Various Artists 
 Album: Scared of the Dark (feat. XXXTENTACION) 
 Link: https://open.spotify.com/track/3vWzyGTu6Ovo1GdrcJqH6e
-
-“The Sign” by Harry Styles
+ 
+”The Sign” by Harry Styles 
 Album: Sign of the Times 
 Link: https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN
-
-“The Sign” by MihTy
+ 
+”The Sign” by MihTy 
 Album: The Light 
 Link: https://open.spotify.com/track/3oCJJksC12uFxkt3RQ7rbV
-
-“The Sign” by Ty Dolla $ign
+ 
+”The Sign” by Ty Dolla $ign 
 Album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix 
 Link: https://open.spotify.com/track/7t2bFihaDvhIrd2gn2CWJO
-
-“The Sign” by Jeremih
+ 
+”The Sign” by Jeremih 
 Album: Impatient 
 Link: https://open.spotify.com/track/3WjyiSbfR74pjWXQ3IaFKJ
-
-“The Sign” by Ty Dolla $ign
+ 
+”The Sign” by Ty Dolla $ign 
 Album: Love U Better (feat. Lil Wayne & The-Dream) 
 Link: https://open.spotify.com/track/270aLuFCbX32hhBr8MQyPM
-
-“The Sign” by Harry Styles
+ 
+”The Sign” by Harry Styles 
 Album: Sign of the Times 
 Link: https://open.spotify.com/track/5ELRkzdzz0HvGpMDlfZHkV
-
-“The Sign” by Mac Miller
+ 
+”The Sign” by Mac Miller 
 Album: Cinderella (feat. Ty Dolla $ign) 
 Link: https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb
-
-“The Sign” by Quality Control
+ 
+”The Sign” by Quality Control 
 Album: Movin’ Up 
 Link: https://open.spotify.com/track/7jTL6K5hqWDVUH4j2thZrp
-
-“The Sign” by Lil Durk
-Album: 100 Grand (feat. Ty Dolla $ign & A Boogie wit da Hoodie) 
-Link: https://open.spotify.com/track/55bBVlWgwZ6yw5ccMkDU5j
-
-“The Sign” by EXO
-Album: Sign 
-Link: https://open.spotify.com/track/2MqK2bA1U6MO0EbUpCOG2r
-
-“The Sign” by Ace of Base
+ 
+”The Sign” by Ace of Base 
 Album: The Sign 
 Link: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
-
-“The Sign” by Ty Dolla $ign
+ 
+”The Sign” by Lil Durk 
+Album: 100 Grand (feat. Ty Dolla $ign & A Boogie wit da Hoodie) 
+Link: https://open.spotify.com/track/55bBVlWgwZ6yw5ccMkDU5j
+ 
+”The Sign” by Ty Dolla $ign 
 Album: Droptop in the Rain (feat. Tory Lanez) 
 Link: https://open.spotify.com/track/2ZN1EnypRwsD38EoFRwmu9
-
-“The Sign” by Various Artists
+ 
+”The Sign” by EXO 
+Album: Sign 
+Link: https://open.spotify.com/track/2MqK2bA1U6MO0EbUpCOG2r
+ 
+”The Sign” by Various Artists 
 Album: The Other Side (with MAX & Ty Dolla $ign) 
 Link: https://open.spotify.com/track/2W5WCpIzIQ2kNzBlUMJGZm
-
-“The Sign” by Coldplay
+ 
+”The Sign” by Coldplay 
 Album: Warning Sign 
 Link: https://open.spotify.com/track/4bPkBHKLKd9WHizsvM2zV3
-
-“The Sign” by MihTy
+ 
+”The Sign” by MihTy 
 Album: The Light 
 Link: https://open.spotify.com/track/0YIfZYYfVytcD1q0Mx57Ey
-
-“The Sign” by Various Artists
+ 
+”The Sign” by Various Artists 
 Album: Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors) 
 Link: https://open.spotify.com/track/7qUJQSNX9QNf46CC6FgH66
-
-“The Sign” by Mariah Carey
+ 
+”The Sign” by Mariah Carey 
 Album: The Distance (feat. Ty Dolla $ign) 
 Link: https://open.spotify.com/track/5TBvzAlyJ3CHlq7wMqpLhW
-
-“The Sign” by Juicy J, Wiz Khalifa & Ty Dolla $ign
+ 
+”The Sign” by Juicy J, Wiz Khalifa & Ty Dolla $ign 
 Album: Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles" 
 Link: https://open.spotify.com/track/7zBQRGpYImAdIZc97FNj3V
-
-“The Sign” by The Front Bottoms
+ 
+”The Sign” by The Front Bottoms 
 Album: Peace Sign 
 Link: https://open.spotify.com/track/7BTfCCOitwPLJLlgPMpz1g
 
-====== Fri Jan 04 2019 00:06:39 GMT-0500 (Eastern Standard Time) =====
+====== Sat Jan 05 2019 17:31:35 GMT-0500 (Eastern Standard Time) =====
 Database: movie-this
+Search for: Mr. Nobody
 
-
+ 
 	Mr. Nobody (2009), featuring Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible. The movie was released in Belgium, Germany, Canada, France, USA, UK and is available to audiences in English, Mohawk. The Interview Movie Database gives this movie a 7.9/10 while Rotten Tomatoes rates it at 67%.
 
 
-====== Fri Jan 04 2019 00:06:43 GMT-0500 (Eastern Standard Time) =====
-Database: spotify-this-song
-
-
-“"I Want it That Way"” by Backstreet Boys
-Album: I Want It That Way 
-Link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
-
-“"I Want it That Way"” by Backstreet Boys
-Album: I Want It That Way 
-Link: https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya
-
-“"I Want it That Way"” by Various Artists
-Album: I Want It That Way 
-Link: https://open.spotify.com/track/0F5f29urvisi4TiwJOQZWN
-
-“"I Want it That Way"” by Tyler and Mark
-Album: I Want It That Way 
-Link: https://open.spotify.com/track/7k52T0b1v9ktm2gJwlO5yy
-
-“"I Want it That Way"” by NKOTBSB
-Album: I Want It That Way 
-Link: https://open.spotify.com/track/2KMwtsWwL5QDtSpm814tju
-
-“"I Want it That Way"” by Manuel Costa
-Album: I Want It That Way 
-Link: https://open.spotify.com/track/4Sp4RxkWukxqJykl0ySNQi
-
-“"I Want it That Way"” by Boyce Avenue
-Album: I Want It That Way 
-Link: https://open.spotify.com/track/16COzZ7jCVn3O8b8ZgviOx
-
-“"I Want it That Way"” by Glee Cast
-Album: Bye Bye Bye / I Want It That Way (Glee Cast Version) 
-Link: https://open.spotify.com/track/3t7m7AzV2ntuI9fIT6KREP
-
-“"I Want it That Way"” by Steel Panther
-Album: I Want It That Way 
-Link: https://open.spotify.com/track/0448cNUvZGCAlUpIPO5kdY
-
-“"I Want it That Way"” by Scott Bradlee's Postmodern Jukebox
-Album: I Want It That Way 
-Link: https://open.spotify.com/track/1Le3uYU5NU9cXXtYeSWnEM
-
-“"I Want it That Way"” by Scary Pockets
-Album: I Want It That Way 
-Link: https://open.spotify.com/track/4IWQXV01Lp0wsXCXo09EBr
-
-“"I Want it That Way"” by "Weird Al" Yankovic
-Album: Ebay (Parody of "I Want It That Way" by the Backstreet Boys) 
-Link: https://open.spotify.com/track/1vaico2C72imYowF4Kv04V
-
-“"I Want it That Way"” by #90s Update
-Album: I Want It That Way 
-Link: https://open.spotify.com/track/0rZTeneJh7IM5SdoabMcYA
-
-“"I Want it That Way"” by Various Artists
-Album: I Want It That Way 
-Link: https://open.spotify.com/track/75W4IDdKhHvRQZpaDx9YPg
-
-“"I Want it That Way"” by MaxLife
-Album: I Want It That Way 
-Link: https://open.spotify.com/track/5MZFb9O6bnPjoDMjL0K2iM
-
-“"I Want it That Way"” by Landon Austin
-Album: I Want It That Way 
-Link: https://open.spotify.com/track/1zUJq8Ap2u9MyDo0HJxVU5
-
-“"I Want it That Way"” by Scott Bradlee's Postmodern Jukebox
-Album: I Want It That Way 
-Link: https://open.spotify.com/track/6FNTpwQU3VNZvezUPYMjPY
-
-“"I Want it That Way"” by "Weird Al" Yankovic
-Album: Ebay (Parody of "I Want It That Way" by the Backstreet Boys) 
-Link: https://open.spotify.com/track/4vHb50VkxDzHYwLiHfWczK
-
-“"I Want it That Way"” by Various Artists
-Album: I Want It That Way 
-Link: https://open.spotify.com/track/1zCiqxhampG4dcC7HEqPu5
-
-“"I Want it That Way"” by Anthem Lights
-Album: I Want It That Way 
-Link: https://open.spotify.com/track/3Ww6kEWxLh4Ub4WPJ9hMtA
-
-====== Fri Jan 04 2019 00:06:57 GMT-0500 (Eastern Standard Time) =====
-Database: concert-this
-
-Upcoming concerts for Vicente Fernandez:
-
-
-====== Fri Jan 04 2019 00:07:04 GMT-0500 (Eastern Standard Time) =====
-Database: concert-this
-
-Upcoming concerts for Cher:
-
-1. 01/17/2019 | Estero: Hertz Arena
-2. 01/19/2019 | Sunrise: BB&T Center
-6. 01/27/2019 | Raleigh: PNC Arena
-7. 01/29/2019 | Charlotte: Spectrum Center
-8. 01/31/2019 | Nashville: Bridgestone Arena
-9. 02/02/2019 | Biloxi: Mississippi Coast Coliseum
-10. 02/04/2019 | Louisville: KFC Yum! Center
-11. 02/06/2019 | Cleveland: Quicken Loans Arena
-12. 02/08/2019 | Chicago: United Center
-13. 02/10/2019 | Columbus: Nationwide Arena
-14. 02/12/2019 | Detroit: Little Caesars Arena
-15. 02/14/2019 | Indianapolis: Bankers Life Fieldhouse
-16. 03/13/2019 | Las Vegas: Monte Carlo Hotel And Casino
-17. 03/15/2019 | Las Vegas: Monte Carlo Hotel And Casino
-18. 03/16/2019 | Las Vegas: Monte Carlo Hotel And Casino
-19. 03/20/2019 | Las Vegas: Monte Carlo Hotel And Casino
-20. 03/22/2019 | Las Vegas: Monte Carlo Hotel And Casino
-21. 03/23/2019 | Las Vegas: Monte Carlo Hotel And Casino
-22. 03/27/2019 | Las Vegas: Monte Carlo Hotel And Casino
-23. 03/29/2019 | Las Vegas: Monte Carlo Hotel And Casino
-24. 03/30/2019 | Las Vegas: Monte Carlo Hotel And Casino
-25. 04/18/2019 | Pittsburgh: PPG Paints Arena
-26. 04/20/2019 | Philadelphia: Wells Fargo Center
-27. 04/22/2019 | Toronto: Scotiabank Arena
-28. 04/24/2019 | Kanata: Canadian Tire Centre
-29. 04/26/2019 | Buffalo: KeyBank Center
-30. 04/28/2019 | Boston: TD Garden
-31. 04/30/2019 | Springfield: MassMutual Center
-32. 05/02/2019 | Brooklyn: Barclays Center
-33. 05/03/2019 | Newark: Prudential Center
-34. 05/08/2019 | Grand Rapids: Van Andel Arena
-35. 05/10/2019 | Saint Louis: Enterprise Center
-36. 05/12/2019 | Milwaukee: Fiserv Forum
-37. 05/14/2019 | Omaha: CHI Health Center Omaha
-38. 05/16/2019 | Sioux Falls: Denny Sanford Premier Center
-39. 05/18/2019 | St Paul: Xcel Energy Center
-40. 05/21/2019 | Winnipeg: Bell MTS Place
-41. 05/23/2019 | Saskatoon: Sasktel Centre
-42. 05/25/2019 | Edmonton: Rogers Place
-43. 05/28/2019 | Calgary: Scotiabank Saddledome
-5. 01/25/2019 | Duluth: Infinite Energy Arena
-45. 09/28/2019 | Merksem: SPORTPALEIS
-46. 09/30/2019 | Amsterdam: Ziggo Dome
-47. 10/07/2019 | Vienna: Wiener Stadthalle - Halle D
-48. 10/09/2019 | Zürich: Hallenstadion
-49. 10/13/2019 | Hamburg: Barclaycard Arena Hamburg
-50. 10/15/2019 | København S: Royal Arena
-51. 10/17/2019 | Stockholm: Friends Arena
-52. 10/20/2019 | London: The O2
-53. 10/21/2019 | London: The O2 Arena
-54. 10/24/2019 | Manchester: Manchester Arena
-55. 10/26/2019 | Birmingham: Arena Birmingham
-44. 05/30/2019 | Vancouver: Rogers Arena
-57. 10/30/2019 | Leeds: First Direct Arena
-58. 11/01/2019 | Dublin: 3Arena
-56. 10/28/2019 | Glasgow: SSE Hydro
-3. 01/21/2019 | Orlando: Amway Center
-4. 01/23/2019 | Jacksonville: Jacksonville Veterans Memorial Arena
-
-====== Fri Jan 04 2019 00:07:18 GMT-0500 (Eastern Standard Time) =====
-Database: spotify-this-song
-
-
-“All I Want for Christmas” by Mariah Carey
-Album: All I Want for Christmas Is You 
-Link: https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn
-
-“All I Want for Christmas” by Various Artists
-Album: All I Want For Christmas (Is My Two Front Teeth) 
-Link: https://open.spotify.com/track/4xXMJbzVQSCyprr4PG5sBj
-
-“All I Want for Christmas” by Michael Bublé
-Album: All I Want For Christmas Is You 
-Link: https://open.spotify.com/track/1FRqLI971CD1QedTiJeL3c
-
-“All I Want for Christmas” by Justin Bieber
-Album: All I Want For Christmas Is You (SuperFestive!) Duet with Mariah Carey 
-Link: https://open.spotify.com/track/1IUtgwxLYzDVd41EgbKUjX
-
-“All I Want for Christmas” by Clementine Duo
-Album: All I Want For Christmas Is You 
-Link: https://open.spotify.com/track/0S78OUsLm86UgdWKMng3Py
-
-“All I Want for Christmas” by Milos Foreman
-Album: All I Want For Christmas Is You 
-Link: https://open.spotify.com/track/0lCNThO3PpgXhXzOjnMyDA
-
-“All I Want for Christmas” by Kenny Chesney
-Album: All I Want for Christmas Is a Real Good Tan 
-Link: https://open.spotify.com/track/0la64DF1pXfSU0Ff6EH8Cr
-
-“All I Want for Christmas” by Michael Bublé
-Album: All I Want For Christmas Is You 
-Link: https://open.spotify.com/track/0xPaZrF25ltzvz1a2Pm5DQ
-
-“All I Want for Christmas” by Vince Vance & The Valiants
-Album: All I Want for Christmas Is You 
-Link: https://open.spotify.com/track/7mrSbcJB3205ftbbSMTyYK
-
-“All I Want for Christmas” by Mariah Carey
-Album: All I Want For Christmas Is You 
-Link: https://open.spotify.com/track/1gNYgcUv09qq8sXcCiRmFj
-
-“All I Want for Christmas” by LeAnn Rimes
-Album: All I Want For Christmas Is You 
-Link: https://open.spotify.com/track/1ADBrQVLpNDALKtoEFIeSJ
-
-“All I Want for Christmas” by *NSYNC
-Album: All I Want Is You (This Christmas) 
-Link: https://open.spotify.com/track/42ahZK39o2uryeHVJbjqc0
-
-“All I Want for Christmas” by Trap City
-Album: All I Want for Christmas Is You 
-Link: https://open.spotify.com/track/6I213LG6s4BN5p9EM9irff
-
-“All I Want for Christmas” by Various Artists
-Album: All I Want for Christmas Is You (2005) 
-Link: https://open.spotify.com/track/48wRnWDekEx5bCOA9oeVF4
-
-“All I Want for Christmas” by PJ Morton
-Album: All I Want For Christmas Is You (feat. Stokley) 
-Link: https://open.spotify.com/track/3xpTPCwZ2G90qS3J5v2Xc4
-
-“All I Want for Christmas” by Lindsey Stirling
-Album: All I Want For Christmas 
-Link: https://open.spotify.com/track/2XNlkgbcpJX8gzD0iGI2ST
-
-“All I Want for Christmas” by Laurence Nerbonne
-Album: All I Want For Christmas Is You 
-Link: https://open.spotify.com/track/6r7dQe9qCH3ag5orO2WnJw
-
-“All I Want for Christmas” by She & Him
-Album: All I Want for Christmas Is You 
-Link: https://open.spotify.com/track/1j75fzIDImv5G7NvSW9FNK
-
-“All I Want for Christmas” by Fifth Harmony
-Album: All I Want for Christmas Is You 
-Link: https://open.spotify.com/track/71wZ1KJdXSa5hC51kvGBL2
-
-“All I Want for Christmas” by Lil Jon
-Album: All I Really Want For Christmas (feat. Kool-Aid Man) 
-Link: https://open.spotify.com/track/5Tz3kCWr1LL2S7P02W55jw
-
-====== Fri Jan 04 2019 00:07:25 GMT-0500 (Eastern Standard Time) =====
+====== Sat Jan 05 2019 17:31:39 GMT-0500 (Eastern Standard Time) =====
 Database: movie-this
+Search for: "Roma"
 
-
-	Bird Box (2018), featuring Sandra Bullock, Trevante Rhodes, John Malkovich, Sarah Paulson: A woman and a pair of children are blindfolded and make their way through a dystopian setting. The movie was released in USA and is available to audiences in English. The Interview Movie Database gives this movie a 6.4/10 while Rotten Tomatoes rates it at 65%.
-
-
-====== Fri Jan 04 2019 00:07:43 GMT-0500 (Eastern Standard Time) =====
-Database: movie-this
-
-
+ 
 	Roma (2018), featuring Yalitza Aparicio, Marina de Tavira, Diego Cortina Autrey, Carlos Peralta: A story that chronicles a year in the life of a middle-class family's maid in Mexico City in the early 1970s. The movie was released in Mexico, USA and is available to audiences in Spanish, English, Norwegian, Japanese. The Interview Movie Database gives this movie a 8.2/10 while Rotten Tomatoes rates it at 96/100.
+
+
+====== Sat Jan 05 2019 17:31:48 GMT-0500 (Eastern Standard Time) =====
+Database: concert-this
+Search for: Ariana Grande
+
+ 1. 03/18/2019 | Albany: Times Union Center
+ 2. 03/20/2019 | Boston: TD Garden
+ 5. 03/26/2019 | Philadelphia: Wells Fargo Center
+ 4. 03/25/2019 | Washington: Capitol One Arena
+ 3. 03/22/2019 | Buffalo: KeyBank Center
+ 6. 03/28/2019 | Cleveland: Quicken Loans Arena
+ 7. 03/30/2019 | Uncasville: Mohegan Sun Arena
+ 8. 04/01/2019 | Montréal: Bell Centre
+ 9. 04/03/2019 | Toronto: Scotiabank Arena
+ 11. 04/07/2019 | Chicago: United Center
+ 12. 04/08/2019 | Chicago: United Center
+ 10. 04/05/2019 | Detroit: Little Caesars Arena
+ 13. 04/10/2019 | Columbus: The Schottenstein Center
+ 16. 04/15/2019 | Milwaukee: Fiserv Forum
+ 17. 04/17/2019 | St Paul: Xcel Energy Center
+ 18. 04/18/2019 | Omaha: CHI Health Center
+ 19. 04/20/2019 | Denver: Pepsi Center
+ 20. 04/22/2019 | Salt Lake City: Vivint Smart Home Arena
+ 21. 04/25/2019 | Edmonton: Rogers Place
+ 22. 04/27/2019 | Vancouver: Rogers Arena
+ 23. 04/30/2019 | Portland: Moda Center
+ 24. 05/02/2019 | San Jose: SAP Center
+ 25. 05/03/2019 | Sacramento: Golden 1 Center
+ 26. 05/06/2019 | Los Angeles: STAPLES Center
+ 15. 04/13/2019 | St. Louis: Enterprise Center
+ 14. 04/12/2019 | Indianapolis: Bankers Life Fieldhouse
+ 27. 05/07/2019 | Los Angeles: Staples Center
+ 29. 05/14/2019 | Phoenix: Talking Stick Resort Arena
+ 30. 05/17/2019 | San Antonio: AT&T Center
+ 31. 05/19/2019 | Houston: Toyota Center
+ 32. 05/21/2019 | Dallas: American Airlines Center
+ 33. 05/23/2019 | Oklahoma City: Chesapeake Energy Arena
+ 34. 05/25/2019 | New Orleans: Smoothie King Center
+ 35. 05/28/2019 | Tampa: Amalie Arena
+ 36. 05/29/2019 | Orlando: Amway Center
+ 37. 05/31/2019 | Miami: American Airlines Arena
+ 38. 06/01/2019 | Miami: American Airlines Arena
+ 39. 06/04/2019 | Raleigh: PNC Arena
+ 40. 06/07/2019 | Nashville: Bridgestone Arena
+ 41. 06/08/2019 | Atlanta: State Farm Arena
+ 42. 06/10/2019 | Charlotte: Spectrum Center
+ 28. 05/10/2019 | Los Angeles: The Forum
+ 44. 06/14/2019 | Brooklyn: Barclays Center
+ 45. 06/15/2019 | Brooklyn: Barclays Center
+ 46. 06/18/2019 | New York: Madison Square Garden
+ 47. 06/19/2019 | New York: Madison Square Garden
+ 48. 06/21/2019 | Washington: Capital One Arena
+ 49. 06/22/2019 | Boston: TD Garden
+ 50. 06/24/2019 | Philadelphia: Wells Fargo Center
+ 51. 06/26/2019 | Toronto: Scotiabank Arena
+ 52. 08/17/2019 | London: The O2 Arena
+ 53. 08/19/2019 | London: The O2
+ 54. 08/23/2019 | Amsterdam: Ziggo Dome
+ 55. 08/24/2019 | Amsterdam: Ziggo Dome
+ 56. 08/27/2019 | Paris: AccorHotels Arena
+ 59. 09/03/2019 | Vienna: Stadthalle
+ 60. 09/05/2019 | Hamburg: Barclaycard Arena
+ 61. 09/08/2019 | Praha 9: O2 arena
+ 62. 09/09/2019 | Kraków: Tauron Arena
+ 63. 09/14/2019 | Birmingham: Arena Birmingham
+ 64. 09/17/2019 | Glasgow: The SSE Hydro
+ 65. 09/19/2019 | Sheffield: FlyDSA Arena
+ 66. 09/22/2019 | Dublin 1: 3Arena
+ 67. 10/01/2019 | Copenhagen: Royal Arena
+ 68. 10/03/2019 | Oslo: Telenor Arena
+ 69. 10/05/2019 | Hki: Hartwall Arena
+ 70. 10/07/2019 | Stockholm: Ericsson Globe
+ 71. 10/10/2019 | Berlin: Mercedes-Benz-Arena
+ 72. 10/13/2019 | Zürich: Hallenstadion
+ 58. 09/01/2019 | Köln: Lanxess Arena
+ 43. 06/12/2019 | Pittsburgh: PPG Paints Arena
+ 57. 08/30/2019 | Antwerpen: Sportpaleis Antwerpen
+
+====== Sat Jan 05 2019 17:32:10 GMT-0500 (Eastern Standard Time) =====
+Database: spotify-this-song
+Search for: Mon essentiel
+
+ 
+”Mon essentiel” by Le Roi Soleil 
+Album: Je fais de toi mon essentiel (en duo avec Anne-Laure Girbal) 
+Link: https://open.spotify.com/track/6H4TH5ntp7KzYePysRBcuT
+ 
+”Mon essentiel” by François & The New Frenchies 
+Album: Mon essentiel 
+Link: https://open.spotify.com/track/6WBVh4vwTNua6bVEkFzF6y
+ 
+”Mon essentiel” by Various Artists 
+Album: Je fais de toi mon essentiel (en duo avec Anne-Laure Girbal) 
+Link: https://open.spotify.com/track/1G35frMRyqXitnd0fwB0Rn
+ 
+”Mon essentiel” by DJ Mayass 
+Album: Mon essentiel, pt. 1 
+Link: https://open.spotify.com/track/4w2rsWGpXP3HdMyBEKFUwb
+ 
+”Mon essentiel” by DJ Mayass 
+Album: Mon essentiel, pt. 2 
+Link: https://open.spotify.com/track/4rt95ETL9tZQyILQQfMcEW
+ 
+”Mon essentiel” by Mark Seibert 
+Album: Je fais de toi mon essentiel (From the Musical " Le Roi Soleil " ) 
+Link: https://open.spotify.com/track/6gsitHwcBz5cAEFKiyeAHk
+ 
+”Mon essentiel” by Various Artists 
+Album: Je fais de toi mon essentiel 
+Link: https://open.spotify.com/track/23hlvV2Xuc7hBmvisiNIoh
+ 
+”Mon essentiel” by Le Roi Soleil 
+Album: Entre ciel et terre 
+Link: https://open.spotify.com/track/6nY1Q1nAnb9AlQXlu0h8Kg
+ 
+”Mon essentiel” by Various Artists 
+Album: Mon essentiel 
+Link: https://open.spotify.com/track/2ZX2X57nyOEIYTaLDUm4Ty
+ 
+”Mon essentiel” by Kokaz 
+Album: Mon essentiel 
+Link: https://open.spotify.com/track/1UMBY5VBNCUMthJEotEQNt
+ 
+”Mon essentiel” by Various Artists 
+Album: Mon Essentiel 
+Link: https://open.spotify.com/track/5jRXDES322kJTxo6q3iDO3
+ 
+”Mon essentiel” by Shauny 
+Album: Mon essentiel 
+Link: https://open.spotify.com/track/3BldAE0FN1m8BHQ3OvivVa
+ 
+”Mon essentiel” by Didinariel 
+Album: Mon essentiel 
+Link: https://open.spotify.com/track/3zlTjqoPSs6qdrQDHmuWAn
+ 
+”Mon essentiel” by Various Artists 
+Album: Mon essentiel 
+Link: https://open.spotify.com/track/45ddAx1sGUGZ6To7YIxbzg
+ 
+”Mon essentiel” by Alain Dintimil 
+Album: Mon Essentiel 
+Link: https://open.spotify.com/track/47TGrK4nLTtCUaBdPW7Wgv
+ 
+”Mon essentiel” by Misteur Lil Bo 
+Album: Mon essentiel 
+Link: https://open.spotify.com/track/4JQyZf7i1NUDyTd7IKYXsH
+ 
+”Mon essentiel” by Various Artists 
+Album: Mon éssentiel 
+Link: https://open.spotify.com/track/6LhWCo8OZ21j7QRGUyT3we
+ 
+”Mon essentiel” by Sheryne 
+Album: Mon Essentiel 
+Link: https://open.spotify.com/track/77xT3vvnaQ7c82ySQNvGKs
+ 
+”Mon essentiel” by Didinariel 
+Album: Mon essentiel 
+Link: https://open.spotify.com/track/00bhQ83tKkOCH7LIz26Scp
+ 
+”Mon essentiel” by Tim'Sey 
+Album: Mon essentiel 
+Link: https://open.spotify.com/track/3HVvWAyMgzy566RflL811S
+
+====== Sat Jan 05 2019 17:32:28 GMT-0500 (Eastern Standard Time) =====
+Database: movie-this
+Search for: The Neverending Story
+
+ 
+	The NeverEnding Story (1984), featuring Barret Oliver, Gerald McRaney, Chris Eastman, Darryl Cooksey: A troubled boy dives into a wondrous fantasy world through the pages of a mysterious book. The movie was released in West Germany, USA and is available to audiences in English. The Interview Movie Database gives this movie a 7.4/10 while Rotten Tomatoes rates it at 82%.
+
+
+====== Sat Jan 05 2019 17:32:33 GMT-0500 (Eastern Standard Time) =====
+Database: movie-this
+Search for: "Roma"
+
+ 
+	Roma (2018), featuring Yalitza Aparicio, Marina de Tavira, Diego Cortina Autrey, Carlos Peralta: A story that chronicles a year in the life of a middle-class family's maid in Mexico City in the early 1970s. The movie was released in Mexico, USA and is available to audiences in Spanish, English, Norwegian, Japanese. The Interview Movie Database gives this movie a 8.2/10 while Rotten Tomatoes rates it at 96/100.
+
+
+====== Sat Jan 05 2019 17:34:18 GMT-0500 (Eastern Standard Time) =====
+Database: movie-this
+Search for: Mr. Nobody
+
+ 
+	Mr. Nobody (2009), featuring Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible. The movie was released in Belgium, Germany, Canada, France, USA, UK and is available to audiences in English, Mohawk. The Interview Movie Database gives this movie a 7.9/10 while Rotten Tomatoes rates it at 67%.
